@@ -2,7 +2,6 @@
 
 Proyecto de Deep Learning para detectar, leer y resolver un Sudoku a partir de una imagen.
 
-```
 ## Objetivo
 
 Construir una aplicación capaz de recibir una imagen de Sudoku en formato `PNG`, `JPG` o `JPEG`, detectar el tablero, identificar los números presentes y resolver el Sudoku.
